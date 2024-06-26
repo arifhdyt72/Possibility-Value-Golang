@@ -25,6 +25,7 @@ adapun unit test yang digunakan diantaranya:
 - Unit Test pengecekan function SUM
 - Unit Test pengecekan function Remove Index
 - Unit Test pengecekan function FindIndexPosibility
+- Unit Test pengecekan perhitungan data array berdasarkan nilai maksimal target dan nilai possibility
 ```
 
 perintah untuk menjalankan unit test
